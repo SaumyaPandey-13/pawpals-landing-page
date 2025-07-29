@@ -1,0 +1,47 @@
+
+.header{
+    background-color: #10202f;
+    padding:20px;
+}
+img{
+    border-radius:10%;
+    border:gainsboro 10px solid;
+}
+h1{
+    font-family: 'Baloo 2', cursive;
+    font-style: italic;
+    color: #19283b !important;
+    background-color: #7c99b5;
+    font-size: 56px;
+    display:inline-block;
+    border:#f8f9fa 5px solid;
+    border-radius:10%;
+}
+li{
+    background-color: #15202b !important;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;}
+
+.p-3{
+    background-image: url('https://i.pinimg.com/736x/2c/27/57/2c27571ea196c4e55999a3021d93c213.jpg');
+}
+
+.container{
+    height:50%;
+    width: 100%;
+    background-color: #657e95;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+.features{
+    background-color: rgb(138, 156, 180);
+    padding: 20px;
+    border-radius: 10px;
+}
+footer{
+    background-color: #f8f9fa;
+    padding: 20px 0;
+}
